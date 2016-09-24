@@ -1,7 +1,7 @@
 {
   "name": "loftschool-builder",
   "version": "1.0.0",
-  "author": "a.kalin",
+  "author": "d.svishchuk",
   "license": "ISC",
   "scripts": {
     "postinstall": "bower install"
@@ -23,6 +23,7 @@
     "gulp-sourcemaps": "1.6.0",
     "gulp-svg-sprite": "^1.3.1",
     "gulp-svgmin": "^1.2.2",
+    "gulp.spritesmith": "^6.2.0",
     "rimraf": "2.5.2"
   },
   "dependencies": {
